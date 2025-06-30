@@ -1,2 +1,9 @@
-# LangChain_Chat_with_Your_Data
-Course LangChain Chat with Your Data
+# LangChain Chat with Your Data 🤖🎲⚙️🤯👨🏻‍💻
+## Course LangChain Chat with Your Data
+### 💻 Topics covered during the course were: 🚀
+
+- Introduction
+
+- Conclusion
+
+Link to course: [DeepLearning](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
